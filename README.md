@@ -1,6 +1,10 @@
+
 # Programacion-Visual
 Proyectos relacionados a la materia
 
+Calcualdora  estandar 9/12/2020
+
+Las operaciones a realizar fueron resultas con la implementacion de condicionales if y un bucle while para asi retomar la seleccion de opcion al inicio.
 En la consola podemos observar
 
 Calculadora
@@ -31,3 +35,4 @@ Si coloco "no"
 Terminara el programa
 
 Acontinuacion saldra un mensaje diciendo que presionemos cualquier tecla para cerrar el programa
+
