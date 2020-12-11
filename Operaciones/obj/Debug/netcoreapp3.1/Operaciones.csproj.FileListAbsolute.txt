@@ -1,9 +1,0 @@
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.deps.json
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.dll
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.pdb
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.csprojAssemblyReference.cache
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.AssemblyInfoInputs.cache
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.AssemblyInfo.cs
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.csproj.CoreCompileInputs.cache
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.dll
-C:\Users\REBE\source\repos\Calculadora1\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.pdb
